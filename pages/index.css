@@ -276,7 +276,7 @@ a {
 
 .table-item-info {
     padding: 0 0 16px 16px;
-    border-left: 3px solid #D0D0D0;
+    border-left: 2px solid #D0D0D0;
     font-weight: 600;
 }
 
@@ -392,7 +392,7 @@ a {
 }
 
 .stage-description {
-    max-width: min-content;
+    width: 302px;
     font-weight: 500;
 }
 
@@ -698,7 +698,7 @@ a {
     }
 
     .stage-description {
-        max-width: 80%;
+        width: 239px;
     }
 
     .members-item img {
