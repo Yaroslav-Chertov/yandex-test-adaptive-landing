@@ -87,13 +87,13 @@ a {
 }
 
 .header {
-    background: url("../../images/header-bg.png") no-repeat;
+    background: url("../images/header-bg.png") no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 .header-wrapper {
-    background: url("../../images/header-cover.png") no-repeat;
+    background: url("../images/header-cover.png") no-repeat;
     background-size: cover;
     background-position: center bottom;
 }
@@ -355,7 +355,7 @@ a {
 }
 
 .stage-item {
-    background: url("../../images/text-bg.png");
+    background: url("../images/text-bg.png");
     background-size: cover;
     display: flex;
     flex-wrap: wrap;
